@@ -1,1 +1,0 @@
-Project writeup for RAKSHAK AI - see notebook and project_writeup.md.
