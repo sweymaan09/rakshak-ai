@@ -1,0 +1,1 @@
+Deployment notes: replace mocked Gemini with real API by adding secret in Kaggle. No keys included.
